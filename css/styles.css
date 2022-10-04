@@ -1,5 +1,5 @@
 /****************************************************************/
-/*                           Body                             */
+/*                           Body                               */
 /****************************************************************/
 body {
   background: cyan no-repeat fixed center;
@@ -13,7 +13,7 @@ body {
 .header-img {
   width: 100%;
   height: 400px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('contents/header_bckg.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header_bckg.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
