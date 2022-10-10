@@ -1,0 +1,92 @@
+/****************************************************************/
+/*                           Boxes                              */
+/****************************************************************/
+
+.box_container {
+	max-width: 1200px;
+	margin: 100px auto;
+  position: relative;
+  width: 1200px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box_container .box {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  float: center;
+  margin: 25px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.box_container .box .fill-div {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+
+.box_container .box:hover {
+  transition: 1s;
+  transform: scale(1.2);
+  font-size: 36px;
+}
+
+.box_container .box .content {
+  position: relative;
+  width: 80%;
+  margin-top: -300px;
+  margin-left: 40px;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  transition: 0.5s;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.box_container .box:hover .content {
+  visibility: visible;
+  opacity: 1;
+}
+
+.box_container .box .content h3 {
+  font-size: 32px;
+}
+
+.box_container .box .content p {
+  font-size: 18px;
+}
+
+
+/****************************************************************/
+/*                   Backgrounds Boxes                          */
+/****************************************************************/
+
+/* TODO : Linkar imagens aqui */
+
+#ins_artf {
+  /* background-color: grey; */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header_bckg.jpeg'); 
+  color: aliceblue;
+} 
+
+#id_2 {
+  background-color: red;
+  color: aliceblue;
+} 
+
+#id_3 {
+  background-color: yellow;
+  color: black;
+}
+
+#id_4 {
+  background-color: aqua;
+  color: aliceblue;
+} 

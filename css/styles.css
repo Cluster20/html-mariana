@@ -15,10 +15,11 @@ body {
 }
 
 
-.container{
+.container {
 	max-width: 1200px;
 	margin:auto;
 }
+
 
 .row {
 	display: flex;
@@ -157,7 +158,6 @@ h1 {
 
 p {
   font-size: 150%;
-  color: black;
 }
 
 
@@ -256,5 +256,5 @@ p {
 @media(max-width: 574px){
   .footer-col{
     width: 100%;
-}
+  }
 }
