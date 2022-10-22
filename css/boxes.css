@@ -68,25 +68,44 @@
 /*                   Backgrounds Boxes                          */
 /****************************************************************/
 
-/* TODO : Linkar imagens aqui */
-
-#ins_artf {
-  /* background-color: grey; */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header_bckg.jpeg'); 
+#fecundacao_in_vitro {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/fertilizacao_in_vitro.jpg');
+  background-size: cover;
+  background-position: 50%;
   color: aliceblue;
 } 
 
-#id_2 {
-  background-color: red;
+#barriga {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/barriga_de_aluguer.webp');
+  background-size: cover;
+  background-position: 80%;
   color: aliceblue;
 } 
 
-#id_3 {
-  background-color: yellow;
-  color: black;
+#injecao {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/injecao.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
 }
 
-#id_4 {
-  background-color: aqua;
+#ovodoacao {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#transferencia {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+}
+
+#surrogate {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-size: cover;
+  background-position: 50%;
   color: aliceblue;
 } 
