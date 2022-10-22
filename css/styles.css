@@ -2,7 +2,6 @@
 /*                           Body                               */
 /****************************************************************/
 body {
-  /* background: cyan no-repeat fixed center; */
   line-height: 1.5;
 	font-family: 'Poppins', sans-serif;
 }
@@ -30,10 +29,11 @@ ul {
 	list-style: none;
 }
 
-p {
+/* p {
   padding-bottom: 10px;
   padding-block-end: 10px;
-}
+  font-size: 150%;
+} */
 
 
 /****************************************************************/
@@ -107,31 +107,85 @@ h0 {
 	padding-inline: 80px;
 }
 
-
 /****************************************************************/
-/*                          COLUNAS                             */
+/*                         Dropdown                             */
 /****************************************************************/
-.column {
-  float: left;
+.dropbtn {
+  background-color: #24262b;
+	color: #bbbbbb;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
 }
 
-/* Left and right column */
-.column.side {
-  width: 25%;
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100;
 }
 
-/* Middle column */
-.column.middle {
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: rgb(0, 0, 0);
+  padding: 12px 16px;
+  /* text-decoration: none; */
+  display: block;
+  transition: none;
+}
+
+#dropdownAzul:hover{
+  background-color: rgb(168, 206, 247);
+}
+
+#dropdownRosa:hover{
+  background-color: rgb(247, 168, 168);
+}
+
+.dropdown-content a:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #020202;
+}
+
+/****************************************************************/
+/*                          Tabela                             */
+/****************************************************************/
+table, th, td {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+  height: 110%;
+  /* border: 1px solid; */
+  border-collapse: collapse;
+  border-spacing: 5em;
+}
+
+tr.spaceUnder>td {
+  padding-bottom: 1em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column.side, .column.middle {
-    width: 100%;
-  }
-}
-
 
 /****************************************************************/
 /*                          Text Styles                         */
@@ -145,6 +199,7 @@ h1 {
   /* font-weight: bold; */
   font-family: "Inconsolata", sans-serif;
   font-size: 300%;
+  margin-top: 100px;
 }
 
 /* h2 {
@@ -156,10 +211,30 @@ h1 {
   font-size: 300%;
 } */
 
-p {
-  font-size: 150%;
+.text {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin: 10em; */
 }
 
+.text h2 {
+  color: pink;
+  text-align: center;
+  font-size: 200%;
+}
+
+.text h3 {
+  color: pink;
+}
+
+.text p {
+  margin-bottom: 20px;
+}
+
+.text ul, ol {
+  margin-bottom: 20px;
+}
 
 
 /****************************************************************/

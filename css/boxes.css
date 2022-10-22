@@ -61,6 +61,8 @@
 
 .box_container .box .content p {
   font-size: 18px;
+  padding-bottom: 10px;
+  padding-block-end: 10px;
 }
 
 
@@ -68,6 +70,9 @@
 /*                   Backgrounds Boxes                          */
 /****************************************************************/
 
+/****************************************************************/
+/*                       Tecnicas                               */
+/****************************************************************/
 #fecundacao_in_vitro {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/fertilizacao_in_vitro.jpg');
   background-size: cover;
@@ -109,3 +114,126 @@
   background-position: 50%;
   color: aliceblue;
 } 
+
+/****************************************************************/
+/*                   Factores Femininos                         */
+/****************************************************************/
+#endometriose {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+/* <!-- TODO: Mudar os links para as imagens aqui:  --> */
+
+#miomas {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#pcos {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#alteracoes_tubarias {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#idade {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#fatores_ovulatorios {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#fatores_uterinos {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#disturbios {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#habitos_f {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+
+/****************************************************************/
+/*                   Factores Masculinos                        */
+/****************************************************************/
+#varicocelo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+/* <!-- TODO: Mudar os links para as imagens aqui:  --> */
+#habitos_m {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#genetica {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#criptorquidia {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#traumas {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#cirurgias {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
+#azooespermia {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-size: cover;
+  background-position: 50%;
+  color: aliceblue;
+} 
+
