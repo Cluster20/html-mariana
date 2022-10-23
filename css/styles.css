@@ -219,9 +219,12 @@ h1 {
 }
 
 .text h2 {
-  color: pink;
-  text-align: center;
   font-size: 200%;
+}
+
+.text .fem {
+  text-align: center;
+  color: pink;
 }
 
 .text h3 {
