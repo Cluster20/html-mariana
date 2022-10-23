@@ -94,7 +94,7 @@
 }
 
 #ovodoacao {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Ovodoação/ovodoação-box.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Ovodoacao/ovodoacao-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
@@ -117,6 +117,7 @@
 /****************************************************************/
 /*                   Factores Femininos                         */
 /****************************************************************/
+/* TODO : mudar de links para caminhos dentro do img */
 #endometriose {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cbncuritiba.com.br/wp-content/uploads/2022/07/post-endometriose-ism-670x446-1.jpg);
   background-size: cover;
@@ -195,14 +196,14 @@
 } 
 
 #habitos_m {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Hábitos/hábitos.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Habitos/habitos.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #genetica {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Genética/genética.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Genetica/genetica.jpg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
@@ -216,7 +217,7 @@
 } 
 
 #traumas {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Traumas.../trauma.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresMasculinos/Traumas/trauma.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
