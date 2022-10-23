@@ -74,17 +74,13 @@ h0 {
 /* Estilo base da nav bar */
 .topnav {
   overflow: fixed;
-  /* background-color: transparent; */
   background-color:  #24262b;
-  /* list-style-type: none; */
   margin: 0;
   padding: 0;
   text-align: center;
-  /* font-size: 100%; */
   position: fixed;
   top:0px;
   width:100%;
-  /* margin-top: 15px; */
   z-index: 9999999;   /* TODO: Arranjar isto*/
 }
 
