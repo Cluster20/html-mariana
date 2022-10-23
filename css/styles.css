@@ -167,7 +167,6 @@ table, th, td {
   margin-right: auto;
   table-layout: fixed;
   height: 110%;
-  /* border: 1px solid; */
   border-collapse: collapse;
   border-spacing: 5em;
 }
@@ -240,7 +239,6 @@ h1 {
 .text ul, ol {
   margin-bottom: 20px;
 }
-
 
 /****************************************************************/
 /*                          Footer                              */
