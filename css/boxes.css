@@ -81,35 +81,34 @@
 } 
 
 #barriga {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/barriga_de_aluguer.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Barriga_de_aluguer/box-barriga-de-aluguer.jpg');
   background-size: cover;
-  background-position: 80%;
   color: aliceblue;
 } 
 
 #injecao {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/injecao.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/ICSI/injecao.jpg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 }
 
 #ovodoacao {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Ovodoação/ovodoação-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #transferencia {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Transferência/Transferencia-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 }
 
 #surrogate {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/surrogate.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Surrogate/surrogate-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
@@ -119,7 +118,7 @@
 /*                   Factores Femininos                         */
 /****************************************************************/
 #endometriose {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cbncuritiba.com.br/wp-content/uploads/2022/07/post-endometriose-ism-670x446-1.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
@@ -128,56 +127,56 @@
 /* <!-- TODO: Mudar os links para as imagens aqui:  --> */
 
 #miomas {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i0.wp.com/materprime.com.br/wp-content/uploads/2022/03/Cirurgia_de_mioma.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #pcos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://rsaude.com.br/img/noticias/g/sindrome-dos-ovarios-policisticos-27082018105831.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #alteracoes_tubarias {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.farmagente.com.br/wp-content/uploads/2020/07/200724_infertilidade_background.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #idade {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s2.glbimg.com/Ezpyhmi66gNPOQjSmcUOZKLmaek=/0x0:825x464/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/T/g/obs23LR5SPzpiZMPUDRQ/bbcexameum.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #fatores_ovulatorios {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.draanaluizacardoso.com.br/wp-content/uploads/2020/10/DAL-29102020-post-blog-sindrome-ovario-policistico.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #fatores_uterinos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://vitallogy-bkt1.s3.sa-east-1.amazonaws.com/images/1276/1119.jpeg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #disturbios {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.unidos.com.br/wp-content/uploads/2020/10/UNIDOS-Disturbios-hormonais-conheca-8-sinais-blog-post.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #habitos_f {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/FatoresFeminios/post-endometriose-ism-670x446-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://clinicasim.com/novo/wp-content/uploads/2016/09/5-habitos-saudaveis.jpg);
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
