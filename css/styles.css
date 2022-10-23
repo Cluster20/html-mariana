@@ -227,6 +227,11 @@ h1 {
   color: pink;
 }
 
+.text .masc {
+  text-align: center;
+  color: lightblue;
+}
+
 .text h3 {
   color: pink;
 }
