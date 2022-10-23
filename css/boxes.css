@@ -81,34 +81,34 @@
 } 
 
 #barriga {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Barriga_de_aluguer/box-barriga-de-aluguer.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Barriga_de_aluguer/box-barriga-de-aluguer.jpg');
   background-size: cover;
   color: aliceblue;
 } 
 
 #injecao {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/ICSI/injecao.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/ICSI/injecao.jpg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 }
 
 #ovodoacao {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Ovodoação/ovodoação-box.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Ovodoação/ovodoação-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 } 
 
 #transferencia {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Transferência/Transferencia-box.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Transferencia/Transferencia-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
 }
 
 #surrogate {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Técnicas/Surrogate/surrogate-box.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Tecnicas/Surrogate/surrogate-box.jpeg');
   background-size: cover;
   background-position: 50%;
   color: aliceblue;
