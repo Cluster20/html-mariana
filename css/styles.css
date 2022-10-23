@@ -128,7 +128,7 @@ h0 {
   display: none;
   position: absolute;
   background-color: transparent;
-  min-width: 200px;
+  min-width: 280px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -159,7 +159,7 @@ h0 {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #020202;
+  padding-inline: 80px;
 }
 
 /****************************************************************/
